@@ -27,7 +27,15 @@
 
 优势：非常适合亚洲地区，在国内使用稳定，30天无理由退款
 
-❗ ❗ 使用提示：**由于中国大陆地区的网络特殊，ivacy针对性的提供了几个专用安装包**，如果自己找不到的，这里给大家提供最近的下载包：[Windows、Mac、Android安装包](ivacyapp.md)（其他未提到的环境，还是用统一的APP或安装包即可）
+❗ ❗ 使用提示：**由于中国大陆地区的网络特殊，ivacy针对性的提供了几个专用安装包，配置方法不同，使用更稳定**
+
+如果自己找不到，这里给大家提供最近的下载包。其他未提到的环境，还是用统一的APP或安装包即可：
+
+| 安装包平台 | 下载地址 |
+| ---- | ---- |
+| Windows（内有说明） | [Windows下载地址](https://github.com/bestCNVPN/tizi/blob/master/files/ivacy-windows-installation-instructions.zip) |
+| Mac（内有说明） | [Mac下载地址](https://github.com/bestCNVPN/tizi/raw/master/files/ivacy-mac-installation-instructions.zip) |
+| Andriod（内有说明） | [Android下载地址](https://github.com/bestCNVPN/tizi/blob/master/files/ivc_prime_2.0.apk) |
 
 
 
