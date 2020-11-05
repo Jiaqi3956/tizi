@@ -29,9 +29,9 @@
 
 | 安装包平台 | 下载地址 |
 | ---- | ---- |
-| Windows（内有说明） | [Windows下载地址](https://github.com/bestCNVPN/tizi/raw/master/files/ivacy-windows-installation-instructions.zip) |
+| Windows | [Windows下载地址](https://github.com/bestCNVPN/tizi/raw/master/files/ivacywindows-cn.zip) |
 | Mac（内有说明） | [Mac下载地址](https://github.com/bestCNVPN/tizi/raw/master/files/ivacymac.zip) |
-| Andriod（支持设置中文语言） | [Android下载地址](https://github.com/bestCNVPN/tizi/raw/master/files/ivc_prime_2.0.apk) |
+| Andriod（支持设置中文语言） | [Android下载地址](https://github.com/bestCNVPN/tizi/raw/master/files/ivc_prime_2.1.1.apk) |
 
 
 
